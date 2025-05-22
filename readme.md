@@ -1,4 +1,8 @@
-### Taller sobre Multi-threading en Java
+# Universidad de la Sabana
+## Diseño y Arquitectura de Software
+### Jorge Esteban Diaz Bernal, Laura Camila Rodriguez Leon, Juan Diego Martinez Escobar
+
+# Taller sobre Multi-threading en Java
 
 #### Objetivo
 El objetivo de este taller es aprender los conceptos fundamentales de multi-threading en Java, implementando ejemplos prácticos para entender cómo manejar múltiples hilos en una aplicación Java.
